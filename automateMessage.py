@@ -13,21 +13,21 @@ webbrowser.open('https://web.whatsapp.com/')
 # All the messages needed to be sent on a daily basis
 msg = {
     0: """*LIVE* with *CaptainGaurav Monday at 7:00* AM using *Resistance Bands*  \
-*Join here* : https://m.teamlink.co/5532319391  \
+*Join here* : https://m.teamlink.co/  \
 *Essentials* : Mini Resistance bands   \
 *Level* : Intermediate \
 _Please be ready with some basic warm up_""",
 
     1: """*LIVE with CaptainGaurav  Tuesday @ 7:00 AM*  for *Lower body* session  \
-*Join here* : https://m.teamlink.co/5532319391   \
+*Join here* : https://m.teamlink.co/   \
 _Please be ready with some basic warm up_""",
 
     2: """The online session continues , *6:00am for Core n lower back*  \
-*Join here* : https://m.teamlink.co/1157238551  \
+*Join here* : https://m.teamlink.co/  \
 *Essentials* : Yoga Mat/Bedsheet/Towel  Level : Elementary""",
 
     3: """*Thursday @ 7:00 AM*  for  *HIIT n Lower Body by CaptainGaurav*  \
-*Join here* : https://m.teamlink.co/5532319391 \
+*Join here* : https://m.teamlink.co/ \
 *Level* : Intermediate  Please be ready with some basic warm up  \
 *Workout details: 60 secs ON 15 secs OFF (beginners start with 45-30 secs then rest for 30-45 secs)  \
  3 rounds (continue in the break if you feel strong)*""",
@@ -36,7 +36,7 @@ _Please be ready with some basic warm up_""",
 
     5: """Hope we enjoyed Friday Break !!  \
 *LIVE* with *CaptainGaurav  Saturday @ 7:00 AM*  for  *ABS n Lower back* \
-*Join here* :https://m.teamlink.co/5532319391 \
+*Join here* :https://m.teamlink.co/ \
 *Essentials* : Yoga Mat/Bedsheet/Towel \
 *Level* : Elementary""",
 
@@ -45,7 +45,7 @@ _Please be ready with some basic warm up_""",
 }
 
 # The group IDs in which the messages need to be forwarded
-groups = ["JJTYLZXDCKDF2Pvb52pTKI", "FLzoe5t5KsU46HK9TOg2jp"]
+groups = ["group id 1", "group id 2"]
 
 # Get the current date
 now = datetime.datetime.now()
